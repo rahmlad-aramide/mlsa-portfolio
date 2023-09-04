@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Adorn Home Decor",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A furniture company ecommerce website project to ease the purchase of home & office furnitures.",
+    url: "https://adorn.netlify.app/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Scissor Webapp",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A URL Shortening app that allows users to shorten & create custom links, generate QR Code for the links and tracks the links performance.",
+    url: "https://scissor.netlify.app",
   },
   {
-    title: "My Resume Site",
+    title: "PVC-Pipe",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "A permanent voters card tracking and delivery app built for my fellow citizens finding it difficult to get their permanent voters card.",
+    url: "https://pvc-pipe.org",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Yieldvest App",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "A stock recommendation app built for those dealing with stocks through the use of fundamental analysis to reduce investment risks.",
+    url: "https://yieldvest.app",
   },
 ];
 
